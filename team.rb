@@ -31,4 +31,3 @@ dragons.show_team_result
 baystars.show_team_result
 carp.show_team_result
 swallows.show_team_result
-# puts giants.name
